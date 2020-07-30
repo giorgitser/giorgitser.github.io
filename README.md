@@ -1,4 +1,2 @@
 ### Giorgis Personal Website
-```python
-print("Gios Website")
-```
+On this site you can find find Giorgi's portfolio, skills and resume.
