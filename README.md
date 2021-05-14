@@ -3,7 +3,7 @@
 <html lang="en">
                 
 <head>
-  <title>Giorgi's Gaming Website</title> 
+  <title>Giorgi Tsertsvadze</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <meta http-equiv="content-type" 
@@ -81,8 +81,7 @@ model from 1980-1982.</h2>
 
 
 <footer>
-<p>This page was created from W3Schools' <a href="http://www.w3schools.com/css/css_rwd_intro.asp">Responsive Web Design</a> tutorial by
-<a href="http://www.people.vcu.edu/~gasaunde">G Saunders</a>.</p>
+<p>This page was created by Giorgi Tsertsvadze
 </footer>
 
 
