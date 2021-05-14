@@ -3,7 +3,7 @@
 <html lang="en">
                 
 <head>
-  <title>Giorgi's Gaming Website</title> 
+  <title>Giorgi's Page</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <meta http-equiv="content-type" 
@@ -23,7 +23,7 @@
     <img src="download.jpg" alt="Logo with Cool Games written on it" />
   </div>
   <div class="col-6 centering">
-    <h1>Giorgi's Gaming Page</h1>
+    <h1>Giorgi Tsertsvadze</h1>
   </div>
 </header>
 
